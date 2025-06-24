@@ -1,0 +1,16 @@
+base.html
+dashboard.html
+login.html
+signup.html
+admin\coupons.html
+admin\edit-users.html
+admin\manage-users.html
+admin\new-coupon.html
+provider\add-new-service.html
+provider\manage-orders.html
+provider\manage-services.html
+regular\apply-discount.html
+regular\checkout.html
+regular\find-services.html
+regular\index.html
+regular\order-history.html
